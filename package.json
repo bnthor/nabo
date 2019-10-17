@@ -3,4 +3,10 @@
 	"description": "Nabo is a tiny, open source CSS framework",
 	"version": "0.2.0",
 	"author": "bnthor",
+    "scripts": { 
+        "start" : "reload -b"
+    },
+	"devDependencies": {
+		"reload": "^3.0.2"
+	}
 }
