@@ -7,6 +7,6 @@
         "start" : "reload -b"
     },
 	"devDependencies": {
-		"reload": "^3.0.2"
+		"reload": "^3.2.1"
 	}
 }
